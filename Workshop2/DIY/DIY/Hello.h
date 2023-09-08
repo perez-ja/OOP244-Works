@@ -7,7 +7,10 @@
 
 #ifndef Hello_hpp
 #define Hello_hpp
-
+class Hello{
+public:
+    void run()const;
+};
 #include <stdio.h>
 
 #endif /* Hello_hpp */
